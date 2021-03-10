@@ -9,6 +9,7 @@ The conponents that you need for this device would be the following:
                                                                     4、arduino nano x1
                                                                     5、lots of dupont wire
                                                                     6、TTP223 touch button *2(used for adjusting time)
+
 wiring diagram:
 ![alt text](https://github.com/Howerchen666/LED-Projected-nixie-tube/blob/1b1d5189eb76578e0b825ac8f59ecf298942ea39/wiring%20diagram.jpg)
 
