@@ -3,12 +3,19 @@
 This clock aims to simulate the old style "nixie tube clock" by using led. All files for this project, such as the arudino source code, the stl files for the casing, illastrator file for the laser cutted acrylic numbers, etc.
 
 The conponents that you need for this device would be the following:
-                                                                    1、Acrylic numbers：each set will need numbers 0-9，you will need 6 sets in total
+                                                                    1、Acrylic numbers(laser cut)(check Laser cut Numbers.ai file)：each set will need numbers 0-9，you will need 6 sets in total
                                                                     2、WS2812LED：120pieces
                                                                     3、LEDPCB x6 pieces
                                                                     4、arduino nano x1
                                                                     5、lots of dupont wire
                                                                     6、TTP223 touch button *2(used for adjusting time)
+
+3D printed parts:
+1.LED Top.STL x6
+2.LED cap.STL x6
+3.bottom.stl x1
+4.stick.STL x24
+                                                                    
 
 wiring diagram:
 ![alt text](https://github.com/Howerchen666/LED-Projected-nixie-tube/blob/1b1d5189eb76578e0b825ac8f59ecf298942ea39/wiring%20diagram.jpg)
