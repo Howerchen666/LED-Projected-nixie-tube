@@ -10,3 +10,7 @@ The conponents that you need for this device would be the following:
                                                                     5、lots of dupont wire
                                                                     6、TTP223 touch button *2(used for adjusting time)
 wiring diagram:
+![alt text](https://github.com/Howerchen666/LED-Projected-nixie-tube/blob/1b1d5189eb76578e0b825ac8f59ecf298942ea39/wiring%20diagram.jpg)
+
+Note:You will need to connect the "A" point on the TTP223 button in order for the program to work propperly.
+![alt text](https://github.com/Howerchen666/LED-Projected-nixie-tube/blob/1b1d5189eb76578e0b825ac8f59ecf298942ea39/TTP223%E8%A7%A6%E6%91%B8%E6%8C%89%E9%94%AE.jpg)
