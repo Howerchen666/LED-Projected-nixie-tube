@@ -24,4 +24,5 @@ Note:You will need to connect the "A" point on the TTP223 button in order for th
 ![alt text](https://github.com/Howerchen666/LED-Projected-nixie-tube/blob/1b1d5189eb76578e0b825ac8f59ecf298942ea39/TTP223%E8%A7%A6%E6%91%B8%E6%8C%89%E9%94%AE.jpg)
 
 Demo video
-[![Watch the video](https://raw.githubusercontent.com/Howerchen666/LED-Projected-nixie-tube/main/demo%20video.MP4)
+https://user-images.githubusercontent.com/40376265/138810267-84a0d8cc-5e16-40ea-8352-52eb9d33e86a.MP4
+
